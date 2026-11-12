@@ -34,6 +34,17 @@
    "bandeirantes": "pronto"
   }
  },
+ "repasses": {
+  "atlantico-sul": {
+   "62|34": {
+    "entrada": 38000,
+    "parcelas": 262,
+    "valorParcela": 0,
+    "frac": 0.75,
+    "obs": "Para Vender RÁPIDO!\nNão existe mais parcelas nesse valor no Bairro Itinga \nEntrada somente à vista 🙌🏻"
+   }
+  }
+ },
  "placaEsc": 0.3,
  "situacoes": {},
  "lots": {
@@ -1057,5 +1068,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-12T12:52:44.893Z"
+ "salvoEm": "2026-11-12T15:16:19.673Z"
 }
