@@ -8,7 +8,7 @@
   "z": 14
  },
  "ia": {},
- "placaEsc": 0.4,
+ "placaEsc": 0.3,
  "situacoes": {},
  "lots": {
   "pereque": {
@@ -1031,5 +1031,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-12T12:13:07.542Z"
+ "salvoEm": "2026-11-12T12:15:32.768Z"
 }
