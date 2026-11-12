@@ -42,6 +42,13 @@
     "valorParcela": 0,
     "frac": 0.75,
     "obs": "Para Vender RÁPIDO!\nNão existe mais parcelas nesse valor no Bairro Itinga \nEntrada somente à vista 🙌🏻"
+   },
+   "49|11": {
+    "entrada": 34000,
+    "parcelas": 212,
+    "valorParcela": 0,
+    "frac": 0.75,
+    "obs": "✅ Plano antigo, parcelas de R$1.216\n✅ Murado na lateral \n✅ Terreno alto e 100% plano"
    }
   }
  },
@@ -1068,5 +1075,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-12T15:16:23.595Z"
+ "salvoEm": "2026-11-12T15:33:34.007Z"
 }
