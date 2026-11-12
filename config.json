@@ -7,7 +7,33 @@
   "lng": -48.790258,
   "z": 14
  },
- "ia": {},
+ "ia": {
+  "obras": {
+   "pereque": "planta",
+   "atlantico-sul": "pronto",
+   "thomaselli": "pronto",
+   "guimbala": "pronto",
+   "firenze": "pronto",
+   "aurora-leoni": "planta",
+   "moser": "pronto",
+   "raul-gern": "pronto",
+   "julio-moreira": "pronto",
+   "nossa-senhora-aparecida": "pronto",
+   "elmar-hostin": "pronto",
+   "egon": "pronto",
+   "baia-da-babitonga": "pronto",
+   "laffin": "pronto",
+   "desm-elmar-hostin-1": "pronto",
+   "desm-elmar-hostin-2": "pronto",
+   "desm-elmar-hostin-3": "pronto",
+   "godri": "pronto",
+   "machados": "pronto",
+   "freitag": "pronto",
+   "kogler": "pronto",
+   "florida": "pronto",
+   "bandeirantes": "pronto"
+  }
+ },
  "situacoes": {},
  "lots": {
   "pereque": {
@@ -1030,5 +1056,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-12T10:00:09.796Z"
+ "salvoEm": "2026-11-12T10:01:30.665Z"
 }
