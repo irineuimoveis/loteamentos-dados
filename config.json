@@ -2,7 +2,11 @@
  "salarioMinimo": 1621,
  "whatsapp": "5547992422059",
  "reservaUrl": "https://script.google.com/macros/s/AKfycbxYgtb4LhoDC5XFZD0KF3YULXCGJs5CJca9Q_EIgKddy8n4chM85pQSNT7mWmz2dJdp/exec",
- "inicio": null,
+ "inicio": {
+  "lat": -26.416804,
+  "lng": -48.790258,
+  "z": 14
+ },
  "situacoes": {},
  "lots": {
   "pereque": {
@@ -995,5 +999,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-12T01:21:29.285Z"
+ "salvoEm": "2026-11-12T01:22:58.511Z"
 }
