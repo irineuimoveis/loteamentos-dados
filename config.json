@@ -49,6 +49,17 @@
     "valorParcela": 0,
     "frac": 0.75,
     "obs": "✅ Plano antigo, parcelas de R$1.216\n✅ Murado na lateral \n✅ Terreno alto e 100% plano"
+   },
+   "45|22": {
+    "entrada": 52000,
+    "obs": "Plano Antigo, na Rua do Agricultores \nLote 10x24=240m² no asfalto com calçada",
+    "etapas": [
+     {
+      "n": 217,
+      "valor": 0,
+      "frac": 0.75
+     }
+    ]
    }
   }
  },
@@ -1075,5 +1086,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-12T15:33:34.007Z"
+ "salvoEm": "2026-11-12T16:19:52.459Z"
 }
