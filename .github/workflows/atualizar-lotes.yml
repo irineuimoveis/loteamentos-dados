@@ -1,0 +1,39 @@
+name: Atualizar lotes
+# Roda no repositório PÚBLICO (loteamentos-dados): minutos grátis e ilimitados.
+# Busca o robô e a lista de loteamentos no repositório do site (privado) e grava os lotes aqui mesmo, no ramo "dados".
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: atualizar-lotes
+  cancel-in-progress: true
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: irineuimoveis/loteamentos
+          token: ${{ secrets.SITE_TOKEN }}
+          fetch-depth: 1
+          persist-credentials: false
+          sparse-checkout: |
+            atualizar.py
+            loteamentos.json
+          sparse-checkout-cone-mode: false
+      - name: Baixar lotes do forinvest
+        run: python3 atualizar.py rapido
+        env:
+          FORINVEST_EMAIL: ${{ secrets.FORINVEST_EMAIL }}
+          FORINVEST_SENHA: ${{ secrets.FORINVEST_SENHA }}
+          FORINVEST_ADMIN_EMAIL: ${{ secrets.FORINVEST_ADMIN_EMAIL }}
+          FORINVEST_ADMIN_SENHA: ${{ secrets.FORINVEST_ADMIN_SENHA }}
+          SITE_REPO: irineuimoveis/loteamentos
+          GH_TOKEN: ${{ secrets.SITE_TOKEN }}
+          DADOS_REPO: irineuimoveis/loteamentos-dados
+          DADOS_TOKEN: ${{ github.token }}
+
