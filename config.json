@@ -60,6 +60,22 @@
       "frac": 0.75
      }
     ]
+   },
+   "66|31": {
+    "entrada": 120000,
+    "obs": "Casa À Venda Para assumir parcelas do terreno!\nEntrada + 28 parcelas pagas✅\nVocê assume parcelas de 810,50! \n(Raridade no Itinga! 😮)\nCasa de 48m² pré Fábricada com 2 quartos, banheiro, sala/cozinha conjugada \nExcelente Oportunidade!!",
+    "etapas": [
+     {
+      "n": 8,
+      "valor": 0,
+      "frac": 0.5
+     },
+     {
+      "n": 214,
+      "valor": 0,
+      "frac": 0.75
+     }
+    ]
    }
   }
  },
@@ -1104,5 +1120,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-12T20:32:25.847Z"
+ "salvoEm": "2026-11-12T21:22:33.978Z"
 }
