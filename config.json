@@ -77,10 +77,26 @@
       "frac": 0.75
      }
     ]
+   },
+   "46|23": {
+    "entrada": 50000,
+    "obs": "Lote bonito pra vender Rápido",
+    "etapas": [
+     {
+      "n": 1,
+      "valor": 0,
+      "frac": 0.5
+     },
+     {
+      "n": 214,
+      "valor": 0,
+      "frac": 0.75
+     }
+    ]
    }
   }
  },
- "placaEsc": 0.3,
+ "placaEsc": 0.4,
  "situacoes": {},
  "lots": {
   "pereque": {
@@ -1157,5 +1173,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-13T11:57:55.228Z"
+ "salvoEm": "2026-11-13T12:01:13.405Z"
 }
