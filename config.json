@@ -112,7 +112,16 @@
    }
   }
  },
- "placaEsc": 0.4,
+ "paginas": {
+  "isaque": {
+   "depoimentos": [],
+   "nome": "Isaque Tonolli",
+   "clientes": "",
+   "instagram": "@isaqueseucorretor",
+   "texto": "🥇 Destaque 9 Meses seguidos na @irineuimoveis\n🎉 +de 500 famílias já compraram comigo em 5 anos!\n📈 Terreno é o melhor investimento!"
+  }
+ },
+ "placaEsc": 0.3,
  "situacoes": {},
  "lots": {
   "pereque": {
@@ -1207,5 +1216,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-13T12:31:27.068Z"
+ "salvoEm": "2026-11-13T14:44:50.056Z"
 }
