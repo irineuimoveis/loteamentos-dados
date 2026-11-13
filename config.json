@@ -112,15 +112,7 @@
    }
   }
  },
- "paginas": {
-  "isaque": {
-   "depoimentos": [],
-   "nome": "Isaque Tonolli",
-   "clientes": "",
-   "instagram": "@isaqueseucorretor",
-   "texto": "🥇 Destaque 9 Meses seguidos na @irineuimoveis\n🎉 +de 500 famílias já compraram comigo em 5 anos!\n📈 Terreno é o melhor investimento!"
-  }
- },
+ "paginas": {},
  "placaEsc": 0.3,
  "situacoes": {},
  "lots": {
@@ -720,7 +712,26 @@
     "e": 0,
     "r": 0
    },
-   "finLote": {},
+   "finLote": {
+    "F|9": [
+     {
+      "n": 240,
+      "f": 0.75
+     }
+    ],
+    "N|11": [
+     {
+      "n": 240,
+      "f": 0.75
+     }
+    ],
+    "O|12": [
+     {
+      "n": 240,
+      "f": 0.75
+     }
+    ]
+   },
    "bloq": []
   },
   "elmar-hostin": {
@@ -1216,5 +1227,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-13T14:44:50.056Z"
+ "salvoEm": "2026-11-13T14:51:09.297Z"
 }
