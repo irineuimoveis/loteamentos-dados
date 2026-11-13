@@ -114,7 +114,48 @@
  },
  "paginas": {
   "isaque": {
-   "depoimentos": [],
+   "depoimentos": [
+    {
+     "nome": "Anna",
+     "texto": "Estamos felizes em poder conquistar um terreno na Praia",
+     "foto": "paginas/1794592300017-wvc5.jpg"
+    },
+    {
+     "nome": "Lucimara",
+     "texto": "Deus é muito bom, conseguimos nosso terreno",
+     "foto": "paginas/1794592470632-m118.jpg"
+    },
+    {
+     "nome": "Valdivia",
+     "texto": "Tive que me esforçar um pouquinho mas consegui um terreno",
+     "foto": "paginas/1794592551016-chfq.jpg"
+    },
+    {
+     "nome": "Maria",
+     "texto": "Terreno muito grande e localização boa, gostei",
+     "foto": "paginas/1794592607702-eziz.jpg"
+    },
+    {
+     "nome": "João e família",
+     "texto": "Nosso segundo terreno com o Isaque, pode confiar que o cara é bom, pegamos um no Atlântico Sul e agora no loteamento Perequê na praia",
+     "foto": "paginas/1794592733469-klzz.jpg"
+    },
+    {
+     "nome": "Sibeli",
+     "texto": "Tentando comprar a um bom tempo, mas o Isaque foi lá e achou uma condição bem parcelada que se encaixou pra gente",
+     "foto": "paginas/1794592917607-5rax.jpg"
+    },
+    {
+     "nome": "Deuzenir",
+     "texto": "Vim lá de Chapecó pra comprar aqui pois em minha cidade não se encontra parcelamento bom assim",
+     "foto": "paginas/1794592998330-4vm6.jpg"
+    },
+    {
+     "nome": "Angélica",
+     "texto": "Compramos um terreno muito bom e fomos muito bem atendidos, empresa de confiança",
+     "foto": "paginas/1794593156816-xspy.jpg"
+    }
+   ],
    "nome": "Isaque Tonolli",
    "clientes": "",
    "instagram": "@isaqueseucorretor",
@@ -1235,5 +1276,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-13T17:50:19.428Z"
+ "salvoEm": "2026-11-13T18:06:04.924Z"
 }
