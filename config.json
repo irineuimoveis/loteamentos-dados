@@ -162,6 +162,32 @@
    "texto": "🥇 Destaque 9 Meses seguidos na Irineu Imóveis \n🎉 +de 500 famílias já compraram comigo em 5 anos!\n📈 Terreno é o melhor investimento!"
   }
  },
+ "plantasPdf": {
+  "pereque": {
+   "arq": "pereque.webp",
+   "pts": [
+    [
+     1882.1,
+     2078.9,
+     -26.4574762,
+     -48.6253416
+    ],
+    [
+     4575.2,
+     3967.4,
+     -26.4553648,
+     -48.6202976
+    ],
+    [
+     1543.4,
+     3968.3,
+     -26.4594348,
+     -48.62288
+    ]
+   ]
+  }
+ },
+ "medidas": {},
  "placaEsc": 0.3,
  "situacoes": {},
  "lots": {
@@ -1276,5 +1302,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-13T18:06:04.924Z"
+ "salvoEm": "2026-11-13T23:47:01.538Z"
 }
