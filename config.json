@@ -326,7 +326,7 @@
   }
  },
  "medidas": {},
- "placaEsc": 0.3,
+ "placaEsc": 0.4,
  "situacoes": {},
  "lots": {
   "pereque": {
@@ -1440,5 +1440,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-14T11:06:03.806Z"
+ "salvoEm": "2026-11-14T11:47:03.407Z"
 }
