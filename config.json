@@ -8,6 +8,7 @@
   "lng": -48.790184,
   "z": 14
  },
+ "inicioLot": {},
  "ia": {
   "obras": {
    "pereque": "planta",
@@ -610,6 +611,17 @@
       }
      ],
      "financ": []
+    },
+    {
+     "id": "cmwgjuod3v6g",
+     "sinal": 5000,
+     "fases": [
+      {
+       "n": 12,
+       "valor": null
+      }
+     ],
+     "financ": []
     }
    ],
    "porEntrada": {
@@ -619,7 +631,9 @@
     "26500": "cmw5vfgytpf0",
     "33000": "cmw5vfgytpf0"
    },
-   "porLote": {},
+   "porLote": {
+    "L|44": "cmwgjuod3v6g"
+   },
    "av": {
     "porEntrada": {},
     "porLote": {}
@@ -1440,5 +1454,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-14T11:47:03.407Z"
+ "salvoEm": "2026-11-14T15:17:34.170Z"
 }
