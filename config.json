@@ -46,7 +46,9 @@
   }
  },
  "capas": {},
- "vozModelos": {},
+ "vozModelos": {
+  "padrao": "Oi, Esse é o lote {lote}, da quadra {quadra}, no {loteamento}, com {area} metros quadrados. A entrada é facilitada: você dá um sinal de {sinal}, e o restante da entrada, fica em {parcelas_entrada} vezes de {valor_parcela_entrada}, com a primeira parcela só pra dia 20 do mês que vem. Se preferir, a entrada à vista sai por {entrada_vista}, já com dez por cento de desconto. Só depois de quitar as parcelas da entrada que inicia as parcelas do financiamento sendo direto com a Irineu imóveis, sem burocracia de bancos, e fica em {qtd_parcelas} parcelas de {valor_parcela}. Qualquer dúvida, é só me chamar!"
+ },
  "frenteInv": {},
  "ia": {
   "obras": {
@@ -2605,5 +2607,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-16T18:15:53.037Z"
+ "salvoEm": "2026-11-16T18:28:48.123Z"
 }
