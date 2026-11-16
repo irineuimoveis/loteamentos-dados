@@ -46,6 +46,7 @@
   }
  },
  "capas": {},
+ "vozModelos": {},
  "frenteInv": {},
  "ia": {
   "obras": {
@@ -1476,7 +1477,7 @@
    ]
   }
  },
- "placaEsc": 0.4,
+ "placaEsc": 0.3,
  "situacoes": {},
  "lots": {
   "pereque": {
@@ -2604,5 +2605,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-16T17:52:42.289Z"
+ "salvoEm": "2026-11-16T18:15:53.037Z"
 }
