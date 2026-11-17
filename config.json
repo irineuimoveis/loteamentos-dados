@@ -76,7 +76,17 @@
    "kogler": "pronto",
    "florida": "pronto",
    "bandeirantes": "pronto"
-  }
+  },
+  "conhecimento": [
+   {
+    "sobre": "lot:pereque",
+    "texto": "Libera para construir em novembro de 2028"
+   },
+   {
+    "sobre": "lot:aurora-leoni",
+    "texto": "Libera para construir em dezembro de 2027"
+   }
+  ]
  },
  "repasses": {
   "atlantico-sul": {
@@ -2608,5 +2618,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-17T14:59:03.478Z"
+ "salvoEm": "2026-11-17T15:02:32.089Z"
 }
