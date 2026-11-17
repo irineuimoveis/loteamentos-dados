@@ -47,7 +47,7 @@
  },
  "capas": {},
  "vozModelos": {
-  "padrao": "Oi, Esse é o lote {lote}, da quadra {quadra}, no {loteamento}, com {area} metros quadrados. A entrada é facilitada: você dá um sinal de {sinal}, e o restante da entrada, fica em {parcelas_entrada} vezes de {valor_parcela_entrada}, com a primeira parcela só pra dia 10 ou 20 do mês que vem. Só depois de quitar as parcelas da entrada que inicia as parcelas do financiamento sendo direto com a Irineu imóveis, sem burocracia de bancos, e fica em {qtd_parcelas} parcelas de {valor_parcela}. Qualquer dúvida, é só me chamar!",
+  "padrao": "Oi, Esse é o lote {lote}, da quadra {quadra}, no {loteamento}, com {area} metros quadrados. A entrada é facilitada: você dá um sinal de {sinal}, e o restante da entrada, fica em {parcelas_entrada} vezes de {valor_parcela_entrada}, com a primeira parcela só pra dia 10 ou 20 do mês que vem. Só depois de quitar as parcelas da entrada que inicia as parcelas do financiamento sendo direto com a Irineu imóveis, sem burocracia de bancos, e fica em {qtd_parcelas} vezes de {valor_parcela}. Qualquer dúvida, é só me chamar!",
   "padrao2": "Oi, tudo bem? Esse é o lote {lote}, da quadra {quadra}, no {loteamento}, com {area} metros quadrados. A entrada é facilitada: você dá um sinal de {sinal}. Depois desses {sinal}, a gente consegue colocar a primeira parcela de {valor_parcela_entrada} só pra dia 10 ou 20 do mês que vem. Fica {parcelas_entrada} primeiras de {valor_parcela_entrada} fixo. Depois que passa essas {parcelas_entrada} vezes, corre 30 dias e inicia {parcelas_entrada_2} vezes de {valor_parcela_entrada_2}. O financiamento começa só depois disso, com {qtd_parcelas} vezes de {valor_parcela}, e depois das {qtd_parcelas} vezes, fica em {qtd_parcelas_2} vezes de {valor_parcela_2}, direto com a Irineu imóveis, sem burocracia de bancos. Qualquer dúvida, é só me chamar!"
  },
  "frenteInv": {},
@@ -2608,5 +2608,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-17T14:02:35.501Z"
+ "salvoEm": "2026-11-17T14:41:46.916Z"
 }
