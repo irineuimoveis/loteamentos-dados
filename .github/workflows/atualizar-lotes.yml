@@ -32,6 +32,8 @@ jobs:
           FORINVEST_SENHA: ${{ secrets.FORINVEST_SENHA }}
           FORINVEST_ADMIN_EMAIL: ${{ secrets.FORINVEST_ADMIN_EMAIL }}
           FORINVEST_ADMIN_SENHA: ${{ secrets.FORINVEST_ADMIN_SENHA }}
+          PONTE_URL: ${{ secrets.PONTE_URL }}
+          PONTE_CHAVE: ${{ secrets.PONTE_CHAVE }}
           SITE_REPO: irineuimoveis/loteamentos
           GH_TOKEN: ${{ secrets.SITE_TOKEN }}
           DADOS_REPO: irineuimoveis/loteamentos-dados
