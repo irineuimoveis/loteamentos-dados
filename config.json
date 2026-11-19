@@ -1125,17 +1125,20 @@
     {
      "nome": "Lucimara",
      "texto": "Deus é muito bom, conseguimos nosso terreno",
-     "foto": "paginas/1794592470632-m118.jpg"
+     "foto": "paginas/1794592470632-m118.jpg",
+     "zoom": 1.9
     },
     {
      "nome": "Valdivia",
      "texto": "Tive que me esforçar um pouquinho mas consegui um terreno",
-     "foto": "paginas/1794592551016-chfq.jpg"
+     "foto": "paginas/1794592551016-chfq.jpg",
+     "zoom": 1.85
     },
     {
      "nome": "João e família",
      "texto": "Nosso segundo terreno com o Isaque, pode confiar que o cara é bom, pegamos um no Atlântico Sul e agora no loteamento Perequê na praia",
-     "foto": "paginas/1794592733469-klzz.jpg"
+     "foto": "paginas/1794592733469-klzz.jpg",
+     "zoom": 1.95
     },
     {
      "nome": "Sibeli",
@@ -1145,12 +1148,14 @@
     {
      "nome": "Deuzenir",
      "texto": "Vim lá de Chapecó pra comprar aqui pois em minha cidade não se encontra parcelamento bom assim",
-     "foto": "paginas/1794592998330-4vm6.jpg"
+     "foto": "paginas/1794592998330-4vm6.jpg",
+     "zoom": 1
     },
     {
      "nome": "Angélica",
      "texto": "Compramos um terreno muito bom e fomos muito bem atendidos, empresa de confiança",
-     "foto": "paginas/1794593156816-xspy.jpg"
+     "foto": "paginas/1794593156816-xspy.jpg",
+     "zoom": 2.05
     }
    ],
    "nome": "Isaque Tonolli",
@@ -3699,5 +3704,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-19T22:07:28.124Z"
+ "salvoEm": "2026-11-19T22:08:43.235Z"
 }
