@@ -45,9 +45,111 @@
    "lng": -48.760782
   }
  },
- "capas": {},
+ "capas": {
+  "aurora-leoni": "capas/aurora-leoni-1795101316280.jpg"
+ },
  "tabInd": {},
- "fotoLot": {},
+ "fotoLot": {
+  "aurora-leoni": {
+   "url": "aereas/aurora-leoni-1795101098522.jpg",
+   "H": [
+    0.003140917964,
+    -0.201943047,
+    0.7456830809,
+    0.04373837464,
+    -0.02830345087,
+    0.3724783119,
+    0.202994827,
+    -0.151121192
+   ],
+   "c": [
+    -26.378367000000004,
+    -48.686825
+   ],
+   "pts": [
+    {
+     "u": 0.67874,
+     "v": 0.45535,
+     "q": "C",
+     "n": "26",
+     "la": -26.3772,
+     "lo": -48.68733
+    },
+    {
+     "u": 0.78898,
+     "v": 0.34128,
+     "q": "F",
+     "n": "29",
+     "la": -26.37933,
+     "lo": -48.68658
+    },
+    {
+     "u": 0.5727,
+     "v": 0.41732,
+     "q": "B",
+     "n": "22",
+     "la": -26.37707,
+     "lo": -48.68677
+    },
+    {
+     "u": 0.72231,
+     "v": 0.33015,
+     "q": "E",
+     "n": "28",
+     "la": -26.37919,
+     "lo": -48.68603
+    },
+    {
+     "u": 0.8084,
+     "v": 0.27729,
+     "q": "M",
+     "n": "20",
+     "la": -26.38292,
+     "lo": -48.68471
+    },
+    {
+     "u": 0.90604,
+     "v": 0.3014,
+     "q": "N",
+     "n": "1",
+     "la": -26.38184,
+     "lo": -48.68629
+    },
+    {
+     "u": 0.24724,
+     "v": 0.63341,
+     "q": "B",
+     "n": "1",
+     "la": -26.37551,
+     "lo": -48.68732
+    },
+    {
+     "u": 0.35591,
+     "v": 0.78735,
+     "q": "C",
+     "n": "2",
+     "la": -26.37553,
+     "lo": -48.68791
+    },
+    {
+     "u": 0.77725,
+     "v": 0.43093,
+     "q": "G",
+     "n": "1",
+     "la": -26.37751,
+     "lo": -48.68756
+    },
+    {
+     "u": 0.8308,
+     "v": 0.44886,
+     "q": "G",
+     "n": "56",
+     "la": -26.37757,
+     "lo": -48.68775
+    }
+   ]
+  }
+ },
  "vozModelos": {
   "padrao": "O lote {lote}, da quadra {quadra}, no {loteamento}, tem {area} metros quadrados. A entrada é facilitada: você dá um sinal de {sinal}, e o restante da entrada, fica em {parcelas_entrada} vezes de {valor_parcela_entrada}, com a primeira parcela só pra dia 10 ou 20 do mês que vem. Só depois de quitar as parcelas da entrada que inicia as parcelas do financiamento sendo direto com a Irineu imóveis, sem burocracia de bancos, e fica em {qtd_parcelas} vezes de {valor_parcela} fixadas em {sm_parcela}. Qualquer dúvida, é só me chamar!",
   "padrao2": "O lote {lote}, da quadra {quadra}, no {loteamento}, tem {area} metros quadrados. A entrada é facilitada: você dá um sinal de {sinal}. Depois desses {sinal}, a gente consegue colocar a primeira parcela de {valor_parcela_entrada} só pra dia 10 ou 20 do mês que vem. Fica {parcelas_entrada} primeiras de {valor_parcela_entrada} fixo. Depois que passa essas {parcelas_entrada} vezes, corre 30 dias e inicia {parcelas_entrada_2} vezes de {valor_parcela_entrada_2}. O financiamento começa só depois disso, com {qtd_parcelas} vezes de {valor_parcela} fixadas em {sm_parcela}, e depois das {qtd_parcelas} vezes, fica em {qtd_parcelas_2} vezes de {valor_parcela_2} fixadas em {sm_parcela_2}, direto com a Irineu imóveis, sem burocracia de bancos. Qualquer dúvida, é só me chamar!"
@@ -2757,5 +2859,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-19T15:10:38.250Z"
+ "salvoEm": "2026-11-19T15:15:21.710Z"
 }
