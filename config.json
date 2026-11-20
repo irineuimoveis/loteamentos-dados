@@ -1264,6 +1264,29 @@
      }
     ]
    }
+  },
+  "guimbala": {
+   "18|14": {
+    "entrada": 52000,
+    "obs": "Terreno com construção em cima!\nEm um plano de pagamento antigo que não tem mais no loteamento!",
+    "priv": "Jaqueline",
+    "opcoes": [
+     "avista",
+     "construcao"
+    ],
+    "etapas": [
+     {
+      "n": 6,
+      "valor": 1000,
+      "frac": 0
+     },
+     {
+      "n": 240,
+      "valor": 0,
+      "frac": 0.75
+     }
+    ]
+   }
   }
  },
  "paginas": {
@@ -3902,5 +3925,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-20T19:10:57.141Z"
+ "salvoEm": "2026-11-20T19:12:19.021Z"
 }
