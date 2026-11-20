@@ -1,4 +1,378 @@
 {
+ "comercios": [
+  {
+   "n": "Mercado Delcídio Albino",
+   "t": "supermarket",
+   "la": -26.406239,
+   "lo": -48.799882
+  },
+  {
+   "n": "Mercado Cipriano",
+   "t": "supermarket",
+   "la": -26.39509,
+   "lo": -48.79682
+  },
+  {
+   "n": "PASTRO SUPERMERCADO",
+   "t": "supermarket",
+   "la": -26.411554,
+   "lo": -48.79021
+  },
+  {
+   "n": "Mercado JB",
+   "t": "supermarket",
+   "la": -26.420538,
+   "lo": -48.790496
+  },
+  {
+   "n": "MERCADO PARANÁ",
+   "t": "supermarket",
+   "la": -26.405796,
+   "lo": -48.793487
+  },
+  {
+   "n": "Mercado Marino",
+   "t": "supermarket",
+   "la": -26.401833,
+   "lo": -48.801058
+  },
+  {
+   "n": "Farmácia Brasil Poupa Lar - Araquari",
+   "t": "pharmacy",
+   "la": -26.402225,
+   "lo": -48.8016
+  },
+  {
+   "n": "Farmácia Preço Popular",
+   "t": "pharmacy",
+   "la": -26.40658,
+   "lo": -48.799593
+  },
+  {
+   "n": "Ac Farma Araquari | Itinga | Delivery",
+   "t": "pharmacy",
+   "la": -26.41323,
+   "lo": -48.793887
+  },
+  {
+   "n": "Farmácia FarmaCerta",
+   "t": "pharmacy",
+   "la": -26.409391,
+   "lo": -48.797748
+  },
+  {
+   "n": "Usifarma Farmácia BelaFarma",
+   "t": "pharmacy",
+   "la": -26.400035,
+   "lo": -48.798672
+  },
+  {
+   "n": "Farmácia São João",
+   "t": "pharmacy",
+   "la": -26.403369,
+   "lo": -48.802906
+  },
+  {
+   "n": "Citty Bakery Padaria e Cafeteria",
+   "t": "bakery",
+   "la": -26.417262,
+   "lo": -48.79188
+  },
+  {
+   "n": "Nosso Pão - Panificadora e Confeitaria",
+   "t": "bakery",
+   "la": -26.404827,
+   "lo": -48.801591
+  },
+  {
+   "n": "Panificadora e Confeitaria Daiane",
+   "t": "bakery",
+   "la": -26.401244,
+   "lo": -48.80002
+  },
+  {
+   "n": "Panificadora do Gili",
+   "t": "bakery",
+   "la": -26.405735,
+   "lo": -48.791164
+  },
+  {
+   "n": "Panificadora e Confeitaria Mariano",
+   "t": "bakery",
+   "la": -26.414076,
+   "lo": -48.788992
+  },
+  {
+   "n": "Panificadora e confeitaria Pão & Prosa",
+   "t": "bakery",
+   "la": -26.39738,
+   "lo": -48.800075
+  },
+  {
+   "n": "SICOOB",
+   "t": "bank",
+   "la": -26.41132,
+   "lo": -48.795719
+  },
+  {
+   "n": "Shopping Multi Space - Araquari",
+   "t": "shopping_mall",
+   "la": -26.404314,
+   "lo": -48.802146
+  },
+  {
+   "n": "Armazém Biss",
+   "t": "supermarket",
+   "la": -26.371321,
+   "lo": -48.712454
+  },
+  {
+   "n": "Farmácia Preço Popular",
+   "t": "pharmacy",
+   "la": -26.372986,
+   "lo": -48.712449
+  },
+  {
+   "n": "Farmacia Kenkoh",
+   "t": "pharmacy",
+   "la": -26.378733,
+   "lo": -48.704992
+  },
+  {
+   "n": "Don Lucas Panificadora e Confeitaria",
+   "t": "bakery",
+   "la": -26.372603,
+   "lo": -48.714512
+  },
+  {
+   "n": "Panificadora e Confeitaria Nona Dita",
+   "t": "bakery",
+   "la": -26.381307,
+   "lo": -48.702878
+  },
+  {
+   "n": "Panificadora Petro V",
+   "t": "bakery",
+   "la": -26.3797,
+   "lo": -48.701713
+  },
+  {
+   "n": "Panificadora e confeitaria Doçuras da Gi",
+   "t": "bakery",
+   "la": -26.379109,
+   "lo": -48.704771
+  },
+  {
+   "n": "Supermercado Campos",
+   "t": "supermarket",
+   "la": -26.428139,
+   "lo": -48.755421
+  },
+  {
+   "n": "Mercado CAMARGO",
+   "t": "supermarket",
+   "la": -26.401435,
+   "lo": -48.743016
+  },
+  {
+   "n": "Farmácia Preço Popular",
+   "t": "pharmacy",
+   "la": -26.407288,
+   "lo": -48.74826
+  },
+  {
+   "n": "Farmácia Asfar Popular",
+   "t": "pharmacy",
+   "la": -26.421545,
+   "lo": -48.753575
+  },
+  {
+   "n": "Panificadora Mazopan",
+   "t": "bakery",
+   "la": -26.40036,
+   "lo": -48.742075
+  },
+  {
+   "n": "Panificadora Mano",
+   "t": "bakery",
+   "la": -26.419068,
+   "lo": -48.756552
+  },
+  {
+   "n": "Lela Panificadora",
+   "t": "bakery",
+   "la": -26.415909,
+   "lo": -48.735768
+  },
+  {
+   "n": "Kraus e Dias panificadora e confeitaria",
+   "t": "bakery",
+   "la": -26.389643,
+   "lo": -48.727275
+  },
+  {
+   "n": "Mercado Janaína",
+   "t": "supermarket",
+   "la": -26.460036,
+   "lo": -48.610354
+  },
+  {
+   "n": "Supermercado Kupas",
+   "t": "supermarket",
+   "la": -26.441211,
+   "lo": -48.629218
+  },
+  {
+   "n": "Ney Supermercado",
+   "t": "supermarket",
+   "la": -26.459152,
+   "lo": -48.608832
+  },
+  {
+   "n": "Supermercado Ibaiti",
+   "t": "supermarket",
+   "la": -26.458922,
+   "lo": -48.600885
+  },
+  {
+   "n": "Mercado e Panificadora da Val",
+   "t": "supermarket",
+   "la": -26.465414,
+   "lo": -48.616158
+  },
+  {
+   "n": "Mercado Anacleto",
+   "t": "supermarket",
+   "la": -26.459817,
+   "lo": -48.604243
+  },
+  {
+   "n": "Farmácia Preço Popular",
+   "t": "pharmacy",
+   "la": -26.459767,
+   "lo": -48.610486
+  },
+  {
+   "n": "Farmácia JK",
+   "t": "pharmacy",
+   "la": -26.460948,
+   "lo": -48.606403
+  },
+  {
+   "n": "Farmácia União",
+   "t": "pharmacy",
+   "la": -26.459664,
+   "lo": -48.604344
+  },
+  {
+   "n": "Farmácia JK Super Popular",
+   "t": "pharmacy",
+   "la": -26.459464,
+   "lo": -48.617358
+  },
+  {
+   "n": "Farmácia JK - Costeira",
+   "t": "pharmacy",
+   "la": -26.443336,
+   "lo": -48.628044
+  },
+  {
+   "n": "Panificadora e Confeitaria Semente da Barra",
+   "t": "bakery",
+   "la": -26.460095,
+   "lo": -48.614436
+  },
+  {
+   "n": "Panificadora e Confeitaria Franco Soares",
+   "t": "bakery",
+   "la": -26.465306,
+   "lo": -48.608991
+  },
+  {
+   "n": "Panificadora e Confeitaria Maria Rosa",
+   "t": "bakery",
+   "la": -26.451389,
+   "lo": -48.620258
+  },
+  {
+   "n": "Padaria Dois Amores",
+   "t": "bakery",
+   "la": -26.435525,
+   "lo": -48.632084
+  },
+  {
+   "n": "PANIFICADORA JANAÍNA",
+   "t": "bakery",
+   "la": -26.458738,
+   "lo": -48.611259
+  },
+  {
+   "n": "Panificação Batistas Schmidlin - Servimos café e açaí.",
+   "t": "bakery",
+   "la": -26.477119,
+   "lo": -48.617487
+  },
+  {
+   "n": "BANCO DO BRASIL - Agência 1925 • Balneário Barra do Sul",
+   "t": "bank",
+   "la": -26.459687,
+   "lo": -48.609879
+  },
+  {
+   "n": "Agro Center BBS",
+   "t": "shopping_mall",
+   "la": -26.437767,
+   "lo": -48.632118
+  },
+  {
+   "n": "Supermercado Araquari",
+   "t": "supermarket",
+   "la": -26.378386,
+   "lo": -48.721406
+  },
+  {
+   "n": "Aços LG - Telhas para Galpões Industriais",
+   "t": "supermarket",
+   "la": -26.375598,
+   "lo": -48.714476
+  },
+  {
+   "n": "Mercado Edimar",
+   "t": "supermarket",
+   "la": -26.373224,
+   "lo": -48.715495
+  },
+  {
+   "n": "Panificadora e Confeitaria Camila",
+   "t": "bakery",
+   "la": -26.375012,
+   "lo": -48.721106
+  },
+  {
+   "n": "Panificadora e Confeitaria Pires",
+   "t": "bakery",
+   "la": -26.370022,
+   "lo": -48.722646
+  },
+  {
+   "n": "Caixa Econômica Federal",
+   "t": "bank",
+   "la": -26.373824,
+   "lo": -48.722206
+  },
+  {
+   "n": "BANCO DO BRASIL - ARAQUARI - Agência 1462",
+   "t": "bank",
+   "la": -26.370158,
+   "lo": -48.722378
+  },
+  {
+   "n": "Supermercado Aliança - Araquari",
+   "t": "supermarket",
+   "la": -26.548268,
+   "lo": -48.714308
+  }
+ ],
  "svMax": 45,
  "salarioMinimo": 1621,
  "whatsapp": "5547992422059",
@@ -3874,5 +4248,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-20T16:17:33.791Z"
+ "salvoEm": "2026-11-20T18:31:23.454Z"
 }
