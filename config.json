@@ -23,7 +23,8 @@
   "local": "https://maps.app.goo.gl/FWwWuiog2zd87tb36",
   "nome": "Drefahl",
   "capa": "lancamento/drefahl-capa.jpg?v=mwu53wkv",
-  "video": "lancamento/drefahl.mp4?v=mwu54a9c"
+  "video": "lancamento/drefahl.mp4?v=mwu54a9c",
+  "lotId": "drefahl"
  },
  "svMax": 45,
  "salarioMinimo": 1621,
@@ -3951,5 +3952,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-24T15:51:02.819Z"
+ "salvoEm": "2026-11-24T15:52:22.140Z"
 }
