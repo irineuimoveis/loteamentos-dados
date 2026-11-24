@@ -21,7 +21,8 @@
   "obs": "Valores exclusivos até o LANÇAMENTO!\nTerá reajuste para quem adquirir após 13 de Dezembro!",
   "difs": "Todas as Ruas Pavimentadas\nIluminação pública em LED\nRede Dupla de Drenagem Pluvial\nEsgoto tratado (sem precisar de Fossa filtro)",
   "local": "https://maps.app.goo.gl/FWwWuiog2zd87tb36",
-  "nome": "Drefahl"
+  "nome": "Drefahl",
+  "capa": "lancamento/drefahl-capa.jpg?v=mwu53wkv"
  },
  "svMax": 45,
  "salarioMinimo": 1621,
@@ -3949,5 +3950,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-24T03:32:39.855Z"
+ "salvoEm": "2026-11-24T03:33:39.971Z"
 }
