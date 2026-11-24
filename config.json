@@ -22,7 +22,8 @@
   "difs": "Todas as Ruas Pavimentadas\nIluminação pública em LED\nRede Dupla de Drenagem Pluvial\nEsgoto tratado (sem precisar de Fossa filtro)",
   "local": "https://maps.app.goo.gl/FWwWuiog2zd87tb36",
   "nome": "Drefahl",
-  "capa": "lancamento/drefahl-capa.jpg?v=mwu53wkv"
+  "capa": "lancamento/drefahl-capa.jpg?v=mwu53wkv",
+  "video": "lancamento/drefahl.mp4?v=mwu54a9c"
  },
  "svMax": 45,
  "salarioMinimo": 1621,
@@ -3950,5 +3951,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-24T03:33:39.971Z"
+ "salvoEm": "2026-11-24T03:34:01.096Z"
 }
