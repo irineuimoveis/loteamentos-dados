@@ -1,4 +1,28 @@
 {
+ "dref": {
+  "fotos": [
+   {
+    "url": "lancamento/drefahl-foto-mwu51m1d.jpg",
+    "legenda": ""
+   },
+   {
+    "url": "lancamento/drefahl-foto-mwu51unm.jpg",
+    "legenda": ""
+   },
+   {
+    "url": "lancamento/drefahl-foto-mwu51zhv.jpg",
+    "legenda": ""
+   }
+  ],
+  "metragem": "240",
+  "sinal": "5000",
+  "parcela": "1215,75",
+  "reajuste": "Fixadas em 3/4 do Salário Mínimo Nacional",
+  "obs": "Valores exclusivos até o LANÇAMENTO!\nTerá reajuste para quem adquirir após 13 de Dezembro!",
+  "difs": "Todas as Ruas Pavimentadas\nIluminação pública em LED\nRede Dupla de Drenagem Pluvial\nEsgoto tratado (sem precisar de Fossa filtro)",
+  "local": "https://maps.app.goo.gl/FWwWuiog2zd87tb36",
+  "nome": "Drefahl"
+ },
  "svMax": 45,
  "salarioMinimo": 1621,
  "whatsapp": "5547992422059",
@@ -3925,5 +3949,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-20T23:44:38.068Z"
+ "salvoEm": "2026-11-24T03:32:39.855Z"
 }
