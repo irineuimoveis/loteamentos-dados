@@ -93,7 +93,8 @@
  "capas": {
   "aurora-leoni": "capas/aurora-leoni-1795101316280.jpg",
   "guimbala": "capas/guimbala-1795190270825.jpg",
-  "baia-da-babitonga": "capas/baia-da-babitonga-1795191042296.jpg"
+  "baia-da-babitonga": "capas/baia-da-babitonga-1795191042296.jpg",
+  "drefahl": "capas/drefahl-1795537925033.jpg"
  },
  "tabInd": {
   "osvaldo-moterani": {
@@ -3956,5 +3957,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-24T16:30:45.631Z"
+ "salvoEm": "2026-11-24T16:32:17.375Z"
 }
