@@ -19,12 +19,14 @@
   "parcela": "1.134",
   "reajuste": "Fixadas em 3/4 do Salário Mínimo Nacional",
   "obs": "Valores exclusivos de LANÇAMENTO!\n",
-  "difs": "Todas as Ruas Pavimentadas\nIluminação pública em LED\nRede Dupla de Drenagem Pluvial\nEsgoto tratado (sem precisar de Fossa filtro)",
+  "difs": "Todas as ruas pavimentadas\nIluminação pública em LED\nRede dupla de drenagem pluvial\n1.002 unidades\n1ª etapa entregue em junho de 2027 e 2ª etapa em junho de 2028\n22 minutos do centro de Joinville\n1,5 km da BR-101 (2 minutos)\n2 minutos do HiperMais\n3 minutos do Shopping Multi Space",
   "local": "https://maps.app.goo.gl/FWwWuiog2zd87tb36",
   "nome": "Drefahl",
   "capa": "lancamento/drefahl-capa.jpg?v=mwu53wkv",
   "video": "lancamento/drefahl.mp4?v=mwu54a9c",
-  "lotId": "drefahl"
+  "lotId": "drefahl",
+  "unidades": "1.002",
+  "entrega": "1ª etapa jun/2027 · 2ª etapa jun/2028"
  },
  "svMax": 45,
  "salarioMinimo": 1621,
