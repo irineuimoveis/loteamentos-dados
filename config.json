@@ -15,10 +15,10 @@
    }
   ],
   "metragem": "240",
-  "sinal": "5000",
-  "parcela": "1215,75",
+  "sinal": "3000",
+  "parcela": "1.134",
   "reajuste": "Fixadas em 3/4 do Salário Mínimo Nacional",
-  "obs": "Valores exclusivos até o LANÇAMENTO!\nTerá reajuste para quem adquirir após 13 de Dezembro!",
+  "obs": "Valores exclusivos de LANÇAMENTO!\n",
   "difs": "Todas as Ruas Pavimentadas\nIluminação pública em LED\nRede Dupla de Drenagem Pluvial\nEsgoto tratado (sem precisar de Fossa filtro)",
   "local": "https://maps.app.goo.gl/FWwWuiog2zd87tb36",
   "nome": "Drefahl",
@@ -3962,5 +3962,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-24T16:32:57.986Z"
+ "salvoEm": "2026-11-25T10:23:03.183Z"
 }
