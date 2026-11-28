@@ -3253,7 +3253,11 @@
     "25000": "cmw5vjvu039y",
     "30000": "cmw5vjvu039y"
    },
-   "porLote": {},
+   "porLote": {
+    "29|9": "cmw5vjvu039y",
+    "11|30": "cmw5vjvu039y",
+    "11|22": "cmw5vjvu039y"
+   },
    "av": {
     "porEntrada": {},
     "porLote": {}
@@ -6272,5 +6276,5 @@
    "bloq": []
   }
  },
- "salvoEm": "2026-11-28T12:23:19.655Z"
+ "salvoEm": "2026-11-28T15:58:20.093Z"
 }
